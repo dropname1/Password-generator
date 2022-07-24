@@ -1,1 +1,2 @@
-# Password-generator
+# Pasword Generator
+![Sc](imageReadme.png)
